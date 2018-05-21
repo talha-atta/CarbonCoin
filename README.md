@@ -1,2 +1,2 @@
 # CarbonCoin
-Tokenizing the carbon cap and trade.
+Tokenizing the carbon cap and trade. Hackathon project.
